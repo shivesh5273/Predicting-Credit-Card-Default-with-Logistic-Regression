@@ -68,3 +68,33 @@ This repository includes the full workflow: data exploration, feature engineerin
    ```bash
    git clone https://github.com/your-username/credit-default-logreg.git
    cd credit-default-logreg
+
+2. Install requirements
+pip install -r requirements.txt
+
+3. Run the Python script
+python UCI_Credit_Card.py
+
+## 📚 Data Source
+	•	UCI Machine Learning Repository: Default of Credit Card Clients Dataset
+
+⸻
+
+## ⭐ Reflections
+
+This project demonstrates the importance of:
+	•	Properly analyzing and visualizing imbalanced data
+	•	Comparing multiple modeling strategies
+	•	Prioritizing business-relevant metrics (recall for defaulters) over plain accuracy
+
+⸻
+
+## 📄 License
+
+MIT License.
+See LICENSE for details.
+
+
+
+
+
